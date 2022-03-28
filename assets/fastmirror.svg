@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 335 402" stroke-linecap="round" stroke-linejoin="round" height="100%" version="1.1"
+    xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve"
+    xmlns:serif="http://www.serif.com/">
+    <style>
+        .head {
+            animation: head-animate 3s ease-in-out infinite;
+            transform-origin: 120px 287px;
+        }
+
+        @keyframes head-animate {
+            0% {
+                transform: rotate(0)
+            }
+
+            20% {
+                transform: rotate(8deg)
+            }
+
+            60% {
+                transform: rotate(10deg)
+            }
+
+            70% {
+                transform: rotate(5deg)
+            }
+
+            80% {
+                transform: rotate(6deg)
+            }
+
+            to {
+                transform: rotate(0)
+            }
+        }
+    </style>
+    <path fill="none" d="M0 0h334.7v401.3H0z"></path>
+    <path
+        d="M218.4 47.5v-5a7 7 0 0 0-7-7h-42a7 7 0 0 0-7 7v5a7 7 0 0 1-7 7 7 7 0 0 1-7-7v-5a7 7 0 0 0-7-7h-14a7 7 0 0 0-7 7v5a7 7 0 0 1-7 7h-12.6a7 7 0 0 0-7 7v5h152v-5a7 7 0 0 0-7-7h-13.4a7 7 0 0 1-7-7Z"
+        fill="#d6f5ff" fill-rule="nonzero"></path>
+    <path d="M93.8 61.5v5h152v-5c0-1.5-.5-2.9-1.3-4H95.1a6.8 6.8 0 0 0-1.3 4Z" fill="#0093ed" style="opacity: 0.3;"
+        fill-rule="nonzero"></path>
+    <path
+        d="M218.4 47.5v-5a7 7 0 0 0-7-7h-42a7 7 0 0 0-7 7v5a7 7 0 0 1-7 7 7 7 0 0 1-7-7v-5a7 7 0 0 0-7-7h-14a7 7 0 0 0-7 7v5a7 7 0 0 1-7 7h-12.6a7 7 0 0 0-7 7v5h152v-5a7 7 0 0 0-7-7h-13.4a7 7 0 0 1-7-7Zm-79.9-12v16m-9-16v16m78.1-16v16m-9-16v16m-9-16v16m-9-16v16m-9-16v16"
+        fill="none" stroke="#0072b1" stroke-width="4"></path>
+    <path
+        d="M274.1 35.5h-32a10 10 0 0 0-10 10v11a10 10 0 0 1-10 10h-104a10 10 0 0 1-10-10v-11a10 10 0 0 0-10-10h-32a14 14 0 0 0-14 14v303a14 14 0 0 0 14 14h208a14 14 0 0 0 14-14v-303a14 14 0 0 0-14-14Z"
+        fill="#0093ed" fill-rule="nonzero"></path>
+    <path
+        d="M274.1 35.5h-32a10 10 0 0 0-10 10v11a10 10 0 0 1-10 10h-104a10 10 0 0 1-10-10v-11a10 10 0 0 0-10-10h-32a14 14 0 0 0-14 14v303a14 14 0 0 0 14 14h208a14 14 0 0 0 14-14v-303a14 14 0 0 0-14-14Z"
+        fill="#0093ed" fill-rule="nonzero"></path>
+    <path
+        d="M66.1 357.5a5 5 0 0 1-5-5v-303a5 5 0 0 1 5-5h32c.6 0 1 .4 1 1v11a19 19 0 0 0 19 19h104a19 19 0 0 0 19-19v-11c0-.6.4-1 1-1h32a5 5 0 0 1 5 5v303a5 5 0 0 1-5 5h-208Z"
+        fill="#7dd8ff" fill-rule="nonzero"></path>
+    <path
+        d="M274.1 35.5h-32a10 10 0 0 0-10 10v11a10 10 0 0 1-10 10h-104a10 10 0 0 1-10-10v-11a10 10 0 0 0-10-10h-32a14 14 0 0 0-14 14v303a14 14 0 0 0 14 14h208a14 14 0 0 0 14-14v-303a14 14 0 0 0-14-14Z"
+        fill="none" stroke="#0072b1" stroke-width="6"></path>
+    <path
+        d="M87.5 302.5V268l12.4-20c3.5-5.7 3-12.9-1.2-18.1l-.1-.1a92 92 0 1 1 143.2 0l-.1.1a15.7 15.7 0 0 0-1.3 18.1l12.4 20v34.4l-16 16H103.5l-16-15.9Z"
+        fill="#0072b1" fill-rule="nonzero"></path>
+    <path
+        d="M87.5 302.5V268l12.4-20c3.5-5.7 3-12.9-1.2-18.1l-.1-.1a92 92 0 1 1 143.2 0l-.1.1a15.7 15.7 0 0 0-1.3 18.1l12.4 20v34.4l-16 16H103.5l-16-15.9Z"
+        fill="none" stroke="#0072b1" stroke-width="8"></path>
+    <path d="m195.1 259.5-20 20v31.7h48.3l20-20v-31.7h-48.3Z" fill="#7dd8ff" fill-rule="nonzero"></path>
+    <path
+        d="M209.1 265v9m4.8-9v9m4.7-9v9m-9.5 19.3v8.9m4.8-8.9v8.9m4.7-8.9v8.9m13.8-23.3h-9m9 4.7h-9m9 4.7h-9m-19.2-9.4h-9m9 4.7h-9m9 4.7h-9"
+        fill="none" stroke="#d6f5ff" stroke-width="3"></path>
+    <g transform="translate(-332 -307)">
+        <circle cx="502.1" cy="479" r="80" fill="#d6f5ff"></circle>
+        <path
+            d="m546.1 415.8-122 85.4a82.5 82.5 0 0 0 11.5 26.1l131.1-91.7a80.9 80.9 0 0 0-20.6-19.8Zm-93 130.1 125-87.5c-1.4-4.6-3.3-9-5.5-13.2l-130 91c3.2 3.5 6.7 6.8 10.5 9.7Z"
+            fill="white" fill-opacity="0.7" fill-rule="nonzero"></path>
+        <circle cx="502.1" cy="479" r="25.1" fill="#0072b1"></circle>
+        <circle cx="502.1" cy="479" r="11" fill="#d6f5ff" style="opacity: 0.5;"></circle>
+        <circle cx="502.1" cy="479" r="80" fill="none" stroke="#0072b1" stroke-width="6">
+        </circle>
+    </g>
+    <g fill="#d6f5ff" fill-opacity="0.3" transform="translate(-332 -307)">
+        <circle cx="502.1" cy="462.1" r="2.8"></circle>
+        <circle cx="502.1" cy="495.9" r="2.8"></circle>
+        <circle cx="519" cy="479" r="2.8"></circle>
+        <circle cx="485.2" cy="479" r="2.8"></circle>
+    </g>
+    <path d="M145.6 266H88.7l-1.3 2.1v34.4l16 16h42.1V266h.1Z" fill="#d6f5ff" fill-rule="nonzero"></path>
+    <path d="M106 312.5 93.5 300v-34h52.1v46.5H106Z" fill="white" fill-rule="nonzero"></path>
+    <path d="M145.6 266H88.7l-1.3 2.1v34.4l16 16h42.1V266h.1Z" fill="none" stroke="#0072b1" stroke-width="4">
+    </path>
+    <g fill="none" stroke="#0072b1" stroke-width="4" transform="translate(-332 -307)">
+        <circle cx="427.9" cy="583.4" r="2.4"></circle>
+        <circle cx="466.9" cy="615.7" r="2.4"></circle>
+    </g>
+    <g transform="translate(-332 -307)">
+        <circle cx="410.1" cy="387" r="8" fill="white"></circle>
+        <circle cx="410.1" cy="387" r="8" fill="none" stroke="#0072b1" stroke-width="4">
+        </circle>
+        <path d="M406.9 387h6.2m-3.1-3.1v6.2" fill="none" stroke="#0072b1" stroke-width="4"></path>
+    </g>
+    <g transform="translate(-332 -307)">
+        <circle cx="594.1" cy="387" r="8" fill="white"></circle>
+        <circle cx="594.1" cy="387" r="8" fill="none" stroke="#0072b1" stroke-width="4">
+        </circle>
+        <path d="M590.9 387h6.2m-3.1-3.1v6.2" fill="none" stroke="#0072b1" stroke-width="4"></path>
+    </g>
+    <g transform="translate(-332 -307)">
+        <circle cx="594.1" cy="545" r="8" fill="white"></circle>
+        <circle cx="594.1" cy="545" r="8" fill="none" stroke="#0072b1" stroke-width="4">
+        </circle>
+        <path d="M590.9 545h6.2m-3.1-3.1v6.2" fill="none" stroke="#0072b1" stroke-width="4"></path>
+    </g>
+    <g transform="translate(-332 -307)">
+        <circle cx="594.1" cy="642.2" r="8" fill="white"></circle>
+        <circle cx="594.1" cy="642.2" r="8" fill="none" stroke="#0072b1" stroke-width="4">
+        </circle>
+        <path d="M590.9 642.2h6.2M594 639v6.3" fill="none" stroke="#0072b1" stroke-width="4"></path>
+    </g>
+    <g transform="translate(-332 -307)">
+        <circle cx="410.1" cy="642.2" r="8" fill="white"></circle>
+        <circle cx="410.1" cy="642.2" r="8" fill="none" stroke="#0072b1" stroke-width="4">
+        </circle>
+        <path d="M406.9 642.2h6.2M410 639v6.3" fill="none" stroke="#0072b1" stroke-width="4"></path>
+    </g>
+    <g transform="translate(-332 -307)">
+        <circle cx="410.1" cy="545" r="8" fill="white"></circle>
+        <circle cx="410.1" cy="545" r="8" fill="none" stroke="#0072b1" stroke-width="4">
+        </circle>
+        <path d="M406.9 545h6.2m-3.1-3.1v6.2" fill="none" stroke="#0072b1" stroke-width="4"></path>
+    </g>
+    <g class="head">
+        <g transform="translate(-332 -307)">
+            <path d="m543.2 504.7-77.7 100a16.6 16.6 0 1 1-24.5-22.2l92.3-86.7a6.8 6.8 0 0 1 9.1-.1c2.6 2.3 3 6.3.8 9Z"
+                fill="white" fill-rule="nonzero"></path>
+            <path
+                d="M542.5 495.7a6 6 0 0 0-3.2-1.6c.7 2.1.4 4.4-1.1 6.2l-77.7 100a16.8 16.8 0 0 1-21.3 4.3 22 22 0 0 0 2 2.3 16.7 16.7 0 0 0 24.3-2.1l77.7-100a6.8 6.8 0 0 0-.7-9.1Z"
+                fill="#d6f5ff" fill-rule="nonzero"></path>
+            <path d="m543.2 504.7-77.7 100a16.6 16.6 0 1 1-24.5-22.2l92.3-86.7a6.8 6.8 0 0 1 9.1-.1c2.6 2.3 3 6.3.8 9Z"
+                fill="none" stroke="#0072b1" stroke-width="4"></path>
+            <circle cx="452.5" cy="593.9" r="8" fill="#0072b1"></circle>
+            <circle cx="452.5" cy="593.9" r="4.9" fill="#d6f5ff" style="opacity: 0.5;"></circle>
+        </g>
+    </g>
+    <path d="M224.9 297.7h-22.2a3 3 0 0 1-3-3v-22.2a3 3 0 0 1 3-3h22.2a3 3 0 0 1 3 3v22.2a3 3 0 0 1-3 3Z" fill="#0072b1"
+        fill-rule="nonzero"></path>
+    <path d="M224.9 297.7h-22.2a3 3 0 0 1-3-3v-22.2a3 3 0 0 1 3-3h22.2a3 3 0 0 1 3 3v22.2a3 3 0 0 1-3 3Z"
+        stroke="#0072b1" fill="white" fill-opacity="0.1" stroke-width="4"></path>
+</svg>
