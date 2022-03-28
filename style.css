@@ -356,4 +356,11 @@ footer a {
     }
 }
 
+@media (min-width: 1920px) {
+    footer .left{
+        display: flex;
+        grid-gap: 10px;
+    }
+}
+
 /* Coded By 戴兜 With All of Love */
