@@ -172,7 +172,8 @@ main .wrapper {
 .item .detail .link {
     text-decoration: underline solid rgba(255, 255, 255, 0.301) 3px;
     cursor: pointer;
-    transition: all .15s ease-in-out;
+    transition: all 0.15s ease-in-out;
+    position: relative;
 }
 
 .item .detail .link:hover {
@@ -182,6 +183,14 @@ main .wrapper {
     padding: 1px 10px;
 }
 
+.item .detail .link area {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+}
+
 .item .detail .title {
     font-size: 1.3rem;
     font-weight: bold;
@@ -189,7 +198,7 @@ main .wrapper {
 
 .item .detail .desc {
     font-size: 1.1rem;
-    padding-bottom:  0.3rem;
+    padding-bottom: 0.3rem;
     text-align: justify;
 }
 
@@ -203,32 +212,32 @@ main .wrapper {
 .item,
 .item[data-color="blue"] {
     color: #0193ed;
-    --box-shadow-color:#027bc7;
+    --box-shadow-color: #027bc7;
 }
 
 .item[data-color="orange"] {
     color: #fc9c3a;
-    --box-shadow-color:#e08a33;
+    --box-shadow-color: #e08a33;
 }
 
 .item[data-color="pink"] {
     color: #e14ec6;
-    --box-shadow-color:#c949b1;
+    --box-shadow-color: #c949b1;
 }
 
 .item[data-color="green"] {
     color: #5ea87b;
-    --box-shadow-color:#54966f;
+    --box-shadow-color: #54966f;
 }
 
 .item[data-color="brown"] {
     color: #7a5d5c;
-    --box-shadow-color:#684f4e;
+    --box-shadow-color: #684f4e;
 }
 
 .item[data-color="red"] {
     color: #d64e55;
-    --box-shadow-color:#c2474d;
+    --box-shadow-color: #c2474d;
 }
 
 /* ITEM COLOR VARS END */
