@@ -174,7 +174,10 @@ main .wrapper {
 }
 
 .item .detail .link:hover {
-    text-decoration: underline solid #ffffff;
+    text-decoration: underline solid #ffffff00;
+    background: rgba(255, 255, 255, 0.301);
+    border-radius: 10px;
+    padding: 1px 10px;
 }
 
 .item .detail .title {
@@ -301,12 +304,7 @@ footer {
 
 footer a {
     color: #0092edbe;
-    text-decoration: underline dotted #0092ed60;
-    transition: all .15s ease-in-out;
-}
-
-footer a:hover {
-    text-decoration: underline solid #0092edbe;
+    text-decoration: none;
 }
 
 @media (max-width: 1134px) {
