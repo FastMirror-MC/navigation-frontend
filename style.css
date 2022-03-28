@@ -323,7 +323,7 @@ footer a {
     text-decoration: none;
 }
 
-@media (max-width: 1134px) {
+@media (max-width: 1350px) {
     footer {
         padding-left: 1.6rem;
         padding-right: 1.6rem;
