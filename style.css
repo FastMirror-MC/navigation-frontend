@@ -266,8 +266,8 @@ main .wrapper {
     }
     main .wrapper {
         grid-gap: 1.375rem;
-        grid-template-columns: repeat(1, 1fr);
-        grid-template-rows: auto;
+        display: flex;
+        flex-direction: column;
         max-width: 500px;
         margin: 20px 0;
     }
