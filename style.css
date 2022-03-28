@@ -150,6 +150,7 @@ main .wrapper {
     object-fit: contain;
     pointer-events: none;
     user-select: none;
+    min-height: 100px;
 }
 
 .item .detail {
