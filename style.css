@@ -171,14 +171,14 @@ main .wrapper {
 }
 
 .item .detail .link {
-    text-decoration: underline solid rgba(255, 255, 255, 0.301) 3px;
+    text-decoration: underline solid rgba(255, 255, 255, 0.301) 2px;
     cursor: pointer;
     transition: all 0.15s ease-in-out;
     position: relative;
 }
 
 .item .detail .link:hover {
-    text-decoration: underline solid #ffffff00 3px;
+    text-decoration: underline solid #ffffff00 2px;
     background: rgba(255, 255, 255, 0.301);
     border-radius: 10px;
     padding: 1px 10px;
