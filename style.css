@@ -216,6 +216,11 @@ main .wrapper {
     --box-shadow-color: #027bc7;
 }
 
+.item[data-color="cyan"] {
+    color: #66becc;
+    --box-shadow-color: #59a7b3;
+}
+
 .item[data-color="orange"] {
     color: #fc9c3a;
     --box-shadow-color: #e08a33;
