@@ -232,8 +232,8 @@ main .wrapper {
 }
 
 .item[data-color="green"] {
-    color: #5ea87b;
-    --box-shadow-color: #54966f;
+    color: #41b349;
+    --box-shadow-color: #20894d;
 }
 
 .item[data-color="brown"] {
