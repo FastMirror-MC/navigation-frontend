@@ -236,6 +236,11 @@ main .wrapper {
     --box-shadow-color: #20894d;
 }
 
+.item[data-color="lp_green"] {
+    color: #84C402;
+    --box-shadow-color: #6A9E02;
+}
+
 .item[data-color="brown"] {
     color: #7a5d5c;
     --box-shadow-color: #684f4e;
@@ -244,6 +249,11 @@ main .wrapper {
 .item[data-color="red"] {
     color: #d64e55;
     --box-shadow-color: #c2474d;
+}
+
+.item[data-color="red2"] {
+    color: #FF7D86;
+    --box-shadow-color: #FE646F;
 }
 
 /* ITEM COLOR VARS END */
