@@ -236,9 +236,9 @@ main .wrapper {
     --box-shadow-color: #20894d;
 }
 
-.item[data-color="lp_green"] {
-    color: #84C402;
-    --box-shadow-color: #6A9E02;
+.item[data-color="spark_yellow"] {
+    color: #ffc93a;
+    --box-shadow-color: #d4a520;
 }
 
 .item[data-color="brown"] {
